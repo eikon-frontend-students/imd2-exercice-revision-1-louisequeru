@@ -123,3 +123,16 @@ video {
 }
 
 /* 04. Display inline et block */
+
+strong {
+  display: block;
+}
+
+.article-summary {
+  display: inline;
+}
+
+.article-title {
+  display: inline;
+  font-weight: 400;
+}
